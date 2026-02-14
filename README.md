@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Prabhjot Singh (Prabh)
+# 👋 Hi, I'm Prabhjot (Prabh) Singh
 
 ### AWS Developer | Python Developer | AI Enthusiast
 
